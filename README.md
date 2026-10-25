@@ -26,3 +26,13 @@ All rights reserved in eligible original human-authored content.
 Version History
 
 v1.0 - October 25, 2026: Initial public documentation of the Bulaklak character template.
+
+---
+
+## 🌺 Official Bulaklak V1.0 Visual Template
+
+![Tisay's 2026 Bulaklak Character Template](file_0000000023c881fdb4c1c930c43da688.png)
+
+**Original template by TISAYAI (@tisayai)**
+
+[View the complete character template](v1.text)
