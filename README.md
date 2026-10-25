@@ -25,4 +25,4 @@ All rights reserved in eligible original human-authored content.
 
 Version History
 
-v1.0 — October 25, 2026: Initial public documentation of the Bulaklak character template.
+v1.0 - October 25, 2026: Initial public documentation of the Bulaklak character template.
