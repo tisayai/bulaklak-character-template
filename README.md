@@ -1,5 +1,7 @@
 Tisay's 2026 "Bulaklak 🌺" Character Template
 
+Bulaklak 🌺 is a psychologically detailed AI character template created by TISAYAI for roleplay character design. It organizes personality, emotional responses, attachment patterns, love styles, TV Tropes, and character backstories into one structured character sheet.
+
 Version: 1.0
 Creator: TISAYAI
 X: "@tisayai" (https://x.com/tisayai)
